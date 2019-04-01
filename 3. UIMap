@@ -1,0 +1,7 @@
+namespace TestGuzik
+{
+
+    public partial class UIMap
+    {
+    }
+}

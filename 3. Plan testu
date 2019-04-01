@@ -1,0 +1,14 @@
+Testowanie zadanie 1 – plan testu
+1.	Otworzyć plik Desktop\TestGuzik\Word\Tekst.txt
+2.	Zaznaczyć wszystko Ctrl +a
+3.	Skopiować Ctrl + c
+4.	Zamknąć plik
+5.	Otworzyć Worda
+6.	Wkleić kod Ctrl + v
+7.	Zaznaczyć cały tekst Ctrl + a
+8.	Kliknąć ze wstążki justowanie
+9.	Kliknij Ctrl + s
+10.	Wybierz miejsce zapisu na Desktop\TestGuzik\Word1
+11.	Nazwa pliku Testowanie.docx
+12.	Kliknij ok
+13.	Zamknąć Worda.

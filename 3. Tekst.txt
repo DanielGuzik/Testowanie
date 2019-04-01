@@ -1,0 +1,8 @@
+Testowanie – Zadanie 3
+To zadanie ma na celu przetestowanie funkcji potrzebnych do edytowania tekstu. Skopiowanie i wklejenie tekstu, 
+jak również testowanie justowania tekstu.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut imperdiet, tellus sed vulputate suscipit, 
+elit nibh malesuada est, ac bibendum sem risus vitae elit. Maecenas aliquet sapien lorem, ac placerat massa interdum ut. 
+Pellentesque pulvinar, elit sit amet suscipit volutpat, nulla metus tristique sapien, eu euismod risus nisi nec diam. 
+Sed ac bibendum lectus. Duis maximus ex vel venenatis faucibus. Integer aliquet id leo ut convallis. 
+Vestibulum lorem arcu, tincidunt imperdiet commodo eu, feugiat vel leo.
